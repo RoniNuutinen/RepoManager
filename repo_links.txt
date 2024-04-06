@@ -1,0 +1,6 @@
+debug+file C:/Users/ronin/CLionProjects/exc20
+xor_checksum C:/Users/ronin/CLionProjects/exc21
+qsort C:/Users/ronin/CLionProjects/exc19
+link_list C:/Users/ronin/CLionProjects/exc16
+projekti C:/Users/ronin/CLionProjects/emb1
+pill-D C:/Users/ronin/CLionProjects/piller
